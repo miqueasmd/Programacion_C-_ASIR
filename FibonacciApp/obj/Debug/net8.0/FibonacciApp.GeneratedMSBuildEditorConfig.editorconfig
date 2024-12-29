@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FibonacciApp
-build_property.ProjectDir = C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\
+build_property.ProjectDir = c:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Programacion_C_ASIR\FibonacciApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

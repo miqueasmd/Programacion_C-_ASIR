@@ -30,12 +30,16 @@ This is a C# console application that calculates the Fibonacci sequence, reverse
 
 ## Project Structure
 
-- 
-
-Program.cs
-
-: Contains the main logic of the application.
-- `ASIR_M03_UF1_ Molina Delgado Miqueas.cs`: Contains the implementation of the required functions.
+- `Program.cs`: Contains the main logic of the application, including the entry point and user interaction code.
+- `ASIR_M03_UF1_Molina_Delgado_Miqueas.cs`: Contains the implementation of the core functions:
+  - `NumeroValido`: Input validation
+  - `SecuenciaFibo`: Fibonacci sequence generation
+  - `SecuenciaReverse`: Sequence reversal
+  - `PosicionNumeroMasVisto`: Frequency analysis
+- `README.md`: Project documentation and usage instructions
+- `.gitignore`: Specifies which files Git should ignore
+- `FibonacciApp.csproj`: Project configuration file
+- `PAC.pdf`: Assignment instructions and requirements document
 
 ## Functions
 
