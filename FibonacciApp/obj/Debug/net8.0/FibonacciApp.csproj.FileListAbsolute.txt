@@ -1,0 +1,14 @@
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\bin\Debug\net8.0\FibonacciApp.exe
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\bin\Debug\net8.0\FibonacciApp.deps.json
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\bin\Debug\net8.0\FibonacciApp.runtimeconfig.json
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\bin\Debug\net8.0\FibonacciApp.dll
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\bin\Debug\net8.0\FibonacciApp.pdb
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.AssemblyInfoInputs.cache
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.AssemblyInfo.cs
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.csproj.CoreCompileInputs.cache
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.dll
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\refint\FibonacciApp.dll
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.pdb
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\FibonacciApp.genruntimeconfig.cache
+C:\Users\usuar\Documents\Ciclo Formativo ASIR Ilerna\23-24\1er semestre 23-24\Programacion basica\Entregas\UD1\PAC Desarrollo\FibonacciApp\obj\Debug\net8.0\ref\FibonacciApp.dll
